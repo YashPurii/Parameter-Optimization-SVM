@@ -34,7 +34,7 @@ The dataset used for the project is [Room Occupancy Estimation](https://archive.
 <img width="284" alt="result" src="https://github.com/rohanthakur336/Parameter-Optimization-of-SVM/blob/main/result.png">
 
 ### Convergence Graph
-![output](<img width="616" alt="image" src="https://github.com/YashPurii/Parameter-Optimization-SVM/assets/109721627/bc9ad478-514c-47f9-bb3b-638aa57b3c09">)
+<img width="616" alt="image" src="https://github.com/YashPurii/Parameter-Optimization-SVM/assets/109721627/bc9ad478-514c-47f9-bb3b-638aa57b3c09">
 
 
 ### Conclusion
